@@ -1,5 +1,5 @@
 # Project Title
-Regression and Classification with MultiArchitecture (Deep) Neural Networks
+Regression and Classification with Multi Architecture (Deep) Neural Networks
 ## Description
 The current research analyses models based on the following types of neural networks: deep
 neural networks (DNNs), convolutional neural networks (CNNs), long short-term memory
