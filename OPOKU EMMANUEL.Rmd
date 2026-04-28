@@ -8,8 +8,6 @@ execute:
   message: false
 ---
 
-# REPRODUCIBILITY
-
 ```{r}
 # =========================
 # REPRODUCIBILITY
@@ -17,8 +15,6 @@ execute:
 set.seed(260408)
 
 ```
-
-# LIBRARIES
 
 ```{r}
 # =========================
