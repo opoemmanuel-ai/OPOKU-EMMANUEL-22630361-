@@ -27,4 +27,4 @@ library(tseries)
 library(keras3)
 library(tensorflow)
 ## Author
-OPOKU EMMANUEL
+Mr. OPOKU EMMANUEL
